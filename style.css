@@ -80,3 +80,7 @@
   color: white;
   text-align: center;
 }
+
+.sports img {
+  display: inline;
+}
