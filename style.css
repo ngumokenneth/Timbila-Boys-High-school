@@ -1,0 +1,82 @@
+* {
+  margin: 2px;
+  background-color: gray;
+  padding: 0;
+  text-decoration-color: none;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.mission_img {
+  display: inline;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.school_mission {
+  float: left;
+  padding: 0px;
+  margin: 20px;
+}
+
+.school_vision {
+  padding: 20px;
+  margin: 10px;
+  float: 20px;
+}
+.school_mission p {
+  color: white;
+}
+
+.school_vision p {
+  color: white;
+}
+
+.footer {
+  background-color: white;
+  text-align: center;
+}
+
+.footer p {
+  color: darkblue;
+}
+
+.academics {
+  padding: 20px;
+  margin: 0px;
+  float: left;
+  display: inline;
+}
+.academics p {
+  color: white;
+}
+
+.about_us {
+  padding: 20px;
+}
+.about_us p {
+  color: white;
+}
+
+.departments {
+  color: white;
+  margin: 20px;
+}
+
+.academics img {
+  float: left;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.header img {
+  border-radius: 15px;
+  margin-right: 6px;
+  border-color: maroon;
+}
+
+.header p {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
